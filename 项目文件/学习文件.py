@@ -64,11 +64,7 @@ best_solution=function(bounds,x_size,generations,mutation_rate)
 # 输出最佳解
 best_solution_value=y(best_solution)
 print(best_solution_value)
-#plt.plot(fitness_over_time)
-#plt.xlabel('Generation')
-#plt.ylabel('Best Fitness')
-#plt.title('Genetic Algorithm Optimization')
-#plt.show()
+
 
 
 
